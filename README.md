@@ -1,7 +1,7 @@
 <h3 align="center">Harvard's CS50: Game Development</h3>
 
   <p align="center">
-    During the month of August of 2023 I enroled in Harvards course <a href='https://pll.harvard.edu/course/cs50s-introduction-game-development'>CS50's Introduction to Game Development</a>. Each directory has a "..._my_project" folder, wich it's where I'll be comitting my respective projects.
+    During the month of August of 2023 I enroled in Harvards course <a href='https://pll.harvard.edu/course/cs50s-introduction-game-development'>CS50's Introduction to Game Development</a>. Each directory has a "My_Project" folder, wich it's where I'll be comitting my respective projects.
   </p>
 
 ### Built With
